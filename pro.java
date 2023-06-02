@@ -14,6 +14,7 @@ class purchase{
         price =z;
         quantity =k;
         typeofpurchase = m;
+        //this is new [urchase]
     }
 
     //example of setter methods
