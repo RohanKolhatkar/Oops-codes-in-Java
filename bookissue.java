@@ -35,7 +35,7 @@ class book{
 
 public class bookissue {
     public static void main(String[] args){
-
+        //new comment
         book obj = new book("rohan", "shame", 134); //directly passing the values to the constructor.
         book obj1 = new book("aditya", "vit", 767); //directly passing the values to the constructor.
         book obj2 = new book("tarun", "trade and trade", 342); //directly passing the values to the constructor.
